@@ -18,7 +18,6 @@ To view the slides locally, you can follow these steps:
 Clone the repository:
 
 ```bash
-Copy code
 git clone https://github.com/yourusername/MamboJamboEvent-Slides.git
 ```
 
