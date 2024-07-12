@@ -23,3 +23,7 @@ git clone https://github.com/yourusername/MamboJamboEvent-Slides.git
 ```
 
 To view the slides as a web app, open index.html in a web browser.
+
+--- 
+
+Feel free to reach out if you have any questions or suggestions!
